@@ -1,4 +1,4 @@
-package tasks
+package logic
 
 func IsValidBracketString(s string) bool {
 	// Stack to store the opening brackets
